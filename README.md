@@ -5,8 +5,8 @@ fill out later
 fill out later
 
 ### Patches
-- **Double Chamber**
-(https://github.com/SilkyKitsune/SuperMetroidArcadeEdits/blob/master/images/double_chamber_7ADAD.bmp)
+**Double Chamber**
+![alt text](https://github.com/SilkyKitsune/SuperMetroidArcadeEdits/blob/master/images/double_chamber_7ADAD.bmp "Double Chamber")
 
 - **Plasma Room**
 - **Spore Spawn Super Room**
