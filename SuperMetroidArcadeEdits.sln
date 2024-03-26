@@ -6,16 +6,17 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8C4581C0-1AB2-4CC6-B487-11218D859388}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		Notes.txt = Notes.txt
 		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{324CB9E3-7265-45CB-B509-42F314A32F91}"
 	ProjectSection(SolutionItems) = preProject
-		images\double_chamber_7ADAD.bmp = images\double_chamber_7ADAD.bmp
-		images\plasma_room_7D2AA.bmp = images\plasma_room_7D2AA.bmp
-		images\spore_spawn_super_room_79B5B.bmp = images\spore_spawn_super_room_79B5B.bmp
-		images\tourian_escape_room_4_7D54D.bmp = images\tourian_escape_room_4_7D54D.bmp
-		images\west_ocean_793FE.bmp = images\west_ocean_793FE.bmp
+		images\double_chamber_7ADAD.png = images\double_chamber_7ADAD.png
+		images\plasma_room_7D2AA.png = images\plasma_room_7D2AA.png
+		images\spore_spawn_super_room_79B5B.png = images\spore_spawn_super_room_79B5B.png
+		images\tourian_escape_room_4_7D54D.png = images\tourian_escape_room_4_7D54D.png
+		images\west_ocean_793FE.png = images\west_ocean_793FE.png
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ips", "ips", "{816C7BA3-0106-4A5B-98EF-E526600FD2D0}"
@@ -23,7 +24,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ips", "ips", "{816C7BA3-010
 		ips\double_chamber.ips = ips\double_chamber.ips
 		ips\plasma_room.ips = ips\plasma_room.ips
 		ips\spore_spawn_super_room.ips = ips\spore_spawn_super_room.ips
+		ips\spore_spawn_super_room_new.ips = ips\spore_spawn_super_room_new.ips
 		ips\tourian_escape_room_4.ips = ips\tourian_escape_room_4.ips
+		ips\tourian_escape_room_4_new.ips = ips\tourian_escape_room_4_new.ips
 		ips\west_ocean.ips = ips\west_ocean.ips
 	EndProjectSection
 EndProject
@@ -32,8 +35,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sfc", "sfc", "{1C5B80C5-30E
 		sfc\double_chamber.sfc = sfc\double_chamber.sfc
 		sfc\plasma_room.sfc = sfc\plasma_room.sfc
 		sfc\spore_spawn_super_room.sfc = sfc\spore_spawn_super_room.sfc
+		sfc\spore_spawn_super_room_new.sfc = sfc\spore_spawn_super_room_new.sfc
 		sfc\Super Metroid Arcade 5 Rooms Edited.sfc = sfc\Super Metroid Arcade 5 Rooms Edited.sfc
 		sfc\tourian_escape_room_4.sfc = sfc\tourian_escape_room_4.sfc
+		sfc\tourian_escape_room_4_new.sfc = sfc\tourian_escape_room_4_new.sfc
 		sfc\west_ocean.sfc = sfc\west_ocean.sfc
 	EndProjectSection
 EndProject
