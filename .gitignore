@@ -4,9 +4,11 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 /images/tourian_escape_room_4_7D54D.png
-/ips/spore_spawn_super_room_new.ips
+/ips/double_chamber_old.ips
+/ips/plasma_room_old.ips
+/ips/spore_spawn_super_room_old.ips
 /ips/tourian_escape_room_4.ips
-/ips/tourian_escape_room_4_new.ips
+/ips/tourian_escape_room_4_old.ips
 /sfc
 Notes.txt
 
