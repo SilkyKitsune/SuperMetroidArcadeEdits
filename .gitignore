@@ -3,9 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-/images/tourian_escape_room_4_7D54D.bmp
+/images/tourian_escape_room_4_7D54D.png
+/ips/spore_spawn_super_room_new.ips
 /ips/tourian_escape_room_4.ips
+/ips/tourian_escape_room_4_new.ips
 /sfc
+Notes.txt
 
 # User-specific files
 *.rsuser
