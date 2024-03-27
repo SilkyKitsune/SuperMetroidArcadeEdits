@@ -13,9 +13,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{324CB9E3-7265-45CB-B509-42F314A32F91}"
 	ProjectSection(SolutionItems) = preProject
 		images\double_chamber_7ADAD.png = images\double_chamber_7ADAD.png
+		images\double_chamber_7ADAD_edit.png = images\double_chamber_7ADAD_edit.png
 		images\plasma_room_7D2AA.png = images\plasma_room_7D2AA.png
+		images\plasma_room_7D2AA_edit.png = images\plasma_room_7D2AA_edit.png
+		images\plasma_room_7D2AA_old.png = images\plasma_room_7D2AA_old.png
 		images\spore_spawn_super_room_79B5B.png = images\spore_spawn_super_room_79B5B.png
+		images\spore_spawn_super_room_79B5B_edit.png = images\spore_spawn_super_room_79B5B_edit.png
 		images\tourian_escape_room_4_7D54D.png = images\tourian_escape_room_4_7D54D.png
+		images\tourian_escape_room_4_7D54D_edit.png = images\tourian_escape_room_4_7D54D_edit.png
 		images\west_ocean_793FE.png = images\west_ocean_793FE.png
 	EndProjectSection
 EndProject
