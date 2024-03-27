@@ -8,15 +8,16 @@ Layout changes are highlighted in red below.
 ### Patches
 **Double Chamber**
 - Added platform for easier traversal
-![alt text](https://github.com/SilkyKitsune/SuperMetroidArcadeEdits/blob/master/images/double_chamber_7ADAD.png "Double Chamber")
+![alt text](https://github.com/SilkyKitsune/SuperMetroidArcadeEdits/blob/master/images/double_chamber_7ADAD_edit.png "Double Chamber")
 
 **Plasma Room**
 - Added platforms to remove the need for bomb jumping
-![alt text](https://github.com/SilkyKitsune/SuperMetroidArcadeEdits/blob/master/images/plasma_room_7D2AA.png "Plasma Room")
+![alt text](https://github.com/SilkyKitsune/SuperMetroidArcadeEdits/blob/master/images/plasma_room_7D2AA_edit.png "Plasma Room")
 
 **Spore Spawn Super Room**
 - Added shot blocks for easier traversal
-![alt text](https://github.com/SilkyKitsune/SuperMetroidArcadeEdits/blob/master/images/spore_spawn_super_room_79B5B.png "Spore Spawn Super Room")
+- The rest of the room is still there the image just doesn't show everything
+![alt text](https://github.com/SilkyKitsune/SuperMetroidArcadeEdits/blob/master/images/spore_spawn_super_room_79B5B_edit.png "Spore Spawn Super Room")
 
 **Tourian Escape Room 4**
 - Coming soon...
@@ -26,4 +27,4 @@ Layout changes are highlighted in red below.
 
 **West Ocean**
 - Raised grapple blocks and extended platforms to make jumps easier
-![alt text](https://github.com/SilkyKitsune/SuperMetroidArcadeEdits/blob/master/images/west_ocean_793FE.png "West Ocean")
+![alt text](https://github.com/SilkyKitsune/SuperMetroidArcadeEdits/blob/master/images/west_ocean_793FE_edit.png "West Ocean")
