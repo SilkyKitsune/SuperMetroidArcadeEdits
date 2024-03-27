@@ -2,14 +2,11 @@
 A handful of edits intended for use with the romhack Super Metroid Arcade. These edits are intended to make some rooms in the hack easier to traverse.
 
 ### Important Info
-These patches are specifically made for Super Metroid Arcade and will more than likely not work properly with anything else.  
-Layout changes are highlighted in green below.
+These patches are specifically made for Super Metroid Arcade and will more than likely not work properly with anything else.
 
 ### Patches
-**Cool Item Rooms**
-- Removes heat damage from...
-	- Speed booster room
-	- crocomire power bomb (find name)
+[**Cool Item Rooms**](ips/cool_item_rooms.ips "cool_item_rooms.ips")
+- Removes heat damage from Speed Booster Room and Post Crocomire Power Bomb Room
 
 [**Double Chamber**](ips/double_chamber.ips "double_chamber.ips")
 - Added platform for easier traversal  
