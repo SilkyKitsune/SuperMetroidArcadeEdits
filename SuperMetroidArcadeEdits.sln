@@ -26,6 +26,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{324CB9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ips", "ips", "{816C7BA3-0106-4A5B-98EF-E526600FD2D0}"
 	ProjectSection(SolutionItems) = preProject
+		ips\cool_item_rooms.ips = ips\cool_item_rooms.ips
 		ips\double_chamber.ips = ips\double_chamber.ips
 		ips\double_chamber_old.ips = ips\double_chamber_old.ips
 		ips\plasma_room.ips = ips\plasma_room.ips
@@ -39,6 +40,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ips", "ips", "{816C7BA3-010
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sfc", "sfc", "{1C5B80C5-30E4-43D0-BB47-A3C9F60A138E}"
 	ProjectSection(SolutionItems) = preProject
+		sfc\cool_item_rooms.sfc = sfc\cool_item_rooms.sfc
 		sfc\double_chamber.sfc = sfc\double_chamber.sfc
 		sfc\double_chamber_old.sfc = sfc\double_chamber_old.sfc
 		sfc\plasma_room.sfc = sfc\plasma_room.sfc
