@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+/images/double_chamber_7ADAD.png
+/images/plasma_room_7D2AA.png
+/images/plasma_room_7D2AA_old.png
+/images/spore_spawn_super_room_79B5B.png
 /images/tourian_escape_room_4_7D54D.png
 /ips/double_chamber_old.ips
 /ips/plasma_room_old.ips
