@@ -11,7 +11,7 @@ Layout changes are highlighted in green below.
 	- Speed booster room
 	- crocomire power bomb (find name)
 
-**Double Chamber**
+![alt text](https://github.com/SilkyKitsune/SuperMetroidArcadeEdits/blob/master/ips/double_chamber.ips "**Double Chamber**")
 - Added platform for easier traversal  
 ![alt text](https://github.com/SilkyKitsune/SuperMetroidArcadeEdits/blob/master/images/double_chamber_7ADAD_edit.png "Double Chamber")
 
