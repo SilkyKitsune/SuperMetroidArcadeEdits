@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{324CB9
 		images\tourian_escape_room_4_7D54D.png = images\tourian_escape_room_4_7D54D.png
 		images\tourian_escape_room_4_7D54D_edit.png = images\tourian_escape_room_4_7D54D_edit.png
 		images\west_ocean_793FE.png = images\west_ocean_793FE.png
+		images\west_ocean_793FE_edit.png = images\west_ocean_793FE_edit.png
+		images\west_ocean_793FE_old.png = images\west_ocean_793FE_old.png
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ips", "ips", "{816C7BA3-0106-4A5B-98EF-E526600FD2D0}"
@@ -36,6 +38,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ips", "ips", "{816C7BA3-010
 		ips\tourian_escape_room_4.ips = ips\tourian_escape_room_4.ips
 		ips\tourian_escape_room_4_old.ips = ips\tourian_escape_room_4_old.ips
 		ips\west_ocean.ips = ips\west_ocean.ips
+		ips\west_ocean_old.ips = ips\west_ocean_old.ips
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sfc", "sfc", "{1C5B80C5-30E4-43D0-BB47-A3C9F60A138E}"
