@@ -24,9 +24,9 @@ These patches are specifically made for Super Metroid Arcade and will more than 
 **Tourian Escape Room 4**
 - Coming soon...
 
-**West_Cactus_Alley_Room**
+**West Cactus Alley Room**
 - Coming soon...
 
 [**West Ocean**](ips/west_ocean.ips "west_ocean.ips")
-- Raised grapple blocks and extended platforms to make jumps easier  
+- Raised grapple blocks and modified platforms to make jumps easier  
 ![alt text](images/west_ocean_793FE_edit.png "West Ocean")
